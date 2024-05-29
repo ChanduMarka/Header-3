@@ -1,0 +1,146 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.bg{
+    background-image:linear-gradient(to bottom right,  rgba(157, 151, 151, 0.31), rgba(210, 5, 39, 0.436)), url(images/smiling-woman-with-usa-flag.jpg);
+    
+    min-height: 660px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    
+    
+    
+}
+    aside{
+        border: 2px solid red;
+        padding: 30px;
+        width: 8%;
+        
+
+
+    }
+    .nav1{
+        background-color: blue;
+        margin-left: 185px;
+        margin-top: -91px
+        
+    }
+    .nav1 ul li{
+        color: white;
+         display: inline-block;
+        text-decoration: none;
+        padding: 8px;
+        
+       
+    }
+
+    .nav2{
+        /* margin-left:px; */
+        display: flex;
+        justify-content:center ;
+        padding: 8px;
+        
+        
+        
+    }
+    .nav2 ul li{
+        color: black;
+         display: inline-block;
+        text-decoration: none;
+        padding: 10px;
+        margin-left: 10px;
+        
+       
+    }
+    h1{
+        font-size: 80px;
+        position: absolute;
+        top: 300px;
+        left: 300px;
+        box-shadow: -10px -10px red ;
+    }
+div>button{
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 17px;
+    width: 10%;
+    position: absolute;
+    top: 600px;
+    left: 320px;
+}
+
+.button1{
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-left: 760px;
+    
+}
+
+div>img{
+    position: absolute;
+    left: 41rem;
+    top: 37.5rem;
+}
+
+ .play{
+    position: absolute;
+    left: 31rem;
+    top: 37.5rem;
+ }
+ h5{
+    position: absolute;
+    left: 36rem;
+    top: 38rem;
+    color: white ;
+ }
+ .media{
+        position: absolute;
+        right: 100px;
+        top: 10px;
+ }
+
+ .text1{
+    position: absolute;
+    right: 15rem;
+ }
+
+ .text2{
+
+    margin-left: 30px;
+ }
+
+ .text3{
+
+    position: absolute;
+    left: 200px
+    
+
+ }
+ .text4{
+    position: absolute;
+    right: 30rem;
+    top: 50px;
+
+ }
+
+ .text5{
+    position: absolute;
+    right: 60px;
+    top: 30px;
+ }
+    
+ .text6{
+    position: absolute;
+    top: 38px;
+    right: 220px;
+
+ }
+
+
+ 
